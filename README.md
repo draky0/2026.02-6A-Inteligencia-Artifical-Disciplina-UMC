@@ -6,7 +6,8 @@ Repositório para a disciplina de Inteligência Artificial
     - Pasta: Documentos da Atividade
         - Arquivo: Lista.pdf -- Lista dos exercícios
    - Arquivo: Exercícios_Python_Luan_2026_02_6ºA_Manhã.ipynb -- Resolução dos exercícios
- - README.md 
+ - README.md
+ - Link para o Google Colab - https://colab.research.google.com/drive/1qX5_93vxjYYhWngIqNgNarA09VjWzTIw?usp=sharing
 
 # Conteúdo 
 Exercícios a Serem Resolvidos:

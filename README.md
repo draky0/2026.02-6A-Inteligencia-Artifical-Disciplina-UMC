@@ -2,12 +2,21 @@
 Repositório para a disciplina de Inteligência Artificial 
 
 # Descrevendo Arquivos Contidos
- - Pasta : 2026.02 - 6°A e 6°D Inteligência Artifical - Disciplina/M1/Atividade - Lista de Exercícios Python
-    - Pasta: Documentos da Atividade
-        - Arquivo: Lista.pdf -- Lista dos exercícios
-   - Arquivo: Exercícios_Python_Luan_2026_02_6ºA_Manhã-.ipynb -- Resolução dos exercícios
- - README.md
- - Link para o Google Colab - https://colab.research.google.com/drive/1qX5_93vxjYYhWngIqNgNarA09VjWzTIw?usp=sharing
+
+```
+2026.02 - 6°A e 6°D Inteligência Artificial - Disciplina/
+├── M1/
+│   └── Atividade - Lista de Exercícios Python/
+│       ├── Documentos da Atividade/
+│       │   └── Lista.pdf                                          # Lista dos exercícios de Python em PDF
+│       └── Exercícios_Python_Luan_2026_02_6ºA_Manhã.ipynb          # Resolução dos exercícios de Python em .ipynb
+│   └── Atividade - Python - DataScience/
+│       │   └── Python - DataScience.pdf                            # Lista dos exercícios de Python em PDF
+│       └── Exercicio_PDF_Data_Science_Luan_2026_02_6A_Manha.ipynb   # Resolução dos exercícios de Python em .ipynb
+├── README.md
+```
+
+**Link para o Google Colab - 1.Exercícios_Python_Luan_2026_02_6ºA_Manhã:** https://colab.research.google.com/drive/1qX5_93vxjYYhWngIqNgNarA09VjWzTIw?usp=sharing
 
 # Conteúdo 
 Exercícios a Serem Resolvidos:

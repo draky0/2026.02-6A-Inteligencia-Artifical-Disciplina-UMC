@@ -11,7 +11,9 @@ Repositório para a disciplina de Inteligência Artificial
 │       │   └── Lista.pdf                                          # Lista dos exercícios de Python em PDF
 │       └── Exercícios_Python_Luan_2026_02_6ºA_Manhã.ipynb          # Resolução dos exercícios de Python em .ipynb
 │   └── Atividade - Python - DataScience/
-│       │   └── Python - DataScience.pdf                            # Lista dos exercícios de Python em PDF
+│       ├── Documentos da Atividade/
+│       │   └── Exercicios Lista - Python DataScience.pdf          # Lista dos exercícios de Python em PDF
+│       │   └── Python - DataScience.pdf                          # Documento da Atividade   
 │       └── Exercicio_PDF_Data_Science_Luan_2026_02_6A_Manha.ipynb   # Resolução dos exercícios de Python em .ipynb
 ├── README.md
 ```

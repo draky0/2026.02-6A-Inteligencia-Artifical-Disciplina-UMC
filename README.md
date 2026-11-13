@@ -31,6 +31,9 @@ Repositório para a disciplina de Inteligência Artificial
 |       ├── Resumo_Academico_Literary_Digest_Colab-2.docx # Resumo Academico em Word
 │       ├── SVM_Classificação_Breast_Cancer_Carlos_e_Luan_6°A_Manhã.ipynb # Modelo de classificação SVM (Google Colab)
 │       └── Link do Google Colab.txt # Link do Google Colab
+├── Atividade  - Comparação de AutoML (FLAML vs. Auto-Sklearn)/
+│       ├──Comparacao_De_AutoML_Dataset_Iris_Luan_6°A_Manhã.ipynb # Atividade Baixada do colab
+│       └── Link do colab.txt # Link para o colab
 ├── README.md
 ```
 
@@ -47,3 +50,6 @@ Repositório para a disciplina de Inteligência Artificial
 **Link para o Kaggle - 4.SVM_Classificação_Breast_Cancer_Carlos_e_Luan_6°A_Manhã:** https://www.kaggle.com/code/carloseduardosl/svm-classificacao-breastcancer-carlos-e-luan-6-a-m
 
 **Link para o Google Colab - 5.Salvando_a_Eleição_Norte-Americana_de_1936_com_DataScience_Luan_Carlos_Eduardo_Igor_2026_02_6A_Manha:** https://colab.research.google.com/drive/1Gmgh-ao6eMbuiz8bL8ll_8eVt2RvqwtB?usp=sharing
+
+**Link para o Google Colab - 6. Comparacao_De_AutoML_Dataset_Iris_Luan_6°A_Manhã.**
+https://colab.research.google.com/drive/1Q29ozFrMbCRy2mlP8NzWXldPupP2J-9I?usp=sharing
